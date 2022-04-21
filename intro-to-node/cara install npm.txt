@@ -1,0 +1,4 @@
+buka hyper
+pilih folder yang akan di instal NPM
+"npm init" untuk instal npm
+kemudian baru bisa install package dari npmjs.com
