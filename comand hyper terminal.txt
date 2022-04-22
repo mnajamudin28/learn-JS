@@ -3,3 +3,9 @@ touch make new file
 start open the file
 cd .. back to folder
 cd go to folder
+atom . membuka folder di atom
+start atom server.js //membuka file di atom
+
+'npm install express' intalling express server
+'install npm -g nodemon' agar tidak menjalankan node terus menerus
+'nodemon calculator.js' //agar terus berjalan tanpa menggunakan perintah node
