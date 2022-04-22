@@ -1,0 +1,5 @@
+mkdir make new folder
+touch make new file
+start open the file
+cd .. back to folder
+cd go to folder
